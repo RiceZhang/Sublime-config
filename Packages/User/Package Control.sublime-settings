@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Alignment",
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"BufferScroll",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"CSScomb",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"JavaScriptNext - ES6 Syntax",
+		"JSX",
+		"LESS",
+		"Material Theme",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"PHPIntel",
+		"PxToEm",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Swig",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
+	]
+}

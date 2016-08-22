@@ -1,0 +1,791 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Apple/Desktop/memberAnalysis",
+		"/D/wepack-sample-project",
+		"/D/Workspaces/ylpAngulr",
+		"/D/Workspaces/angulr",
+		"/D/Program Files/tomcat/apache-tomcat-7.0.69/webapps/pieyeserver",
+		"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app",
+		"/D/Workspaces/angularJS-in-action",
+		"/D/tmp1/testHtml"
+	],
+	"last_version": 3114,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 725.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"stat",
+						"status.isFirstDisabked"
+					],
+					[
+						"in",
+						"input	Tag"
+					],
+					[
+						"st",
+						"status.open"
+					],
+					[
+						"ti",
+						"title	Tag"
+					],
+					[
+						"met",
+						"meta	Tag"
+					],
+					[
+						"te",
+						"templateCache"
+					],
+					[
+						"me",
+						"meta	Tag"
+					],
+					[
+						"i",
+						"init"
+					],
+					[
+						"confi",
+						"config〔argument〕"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"pr",
+						"prototype"
+					],
+					[
+						"XR",
+						"XHR"
+					],
+					[
+						"x",
+						"x-www-form-urlencoded"
+					],
+					[
+						"get",
+						"getResponseHeader"
+					],
+					[
+						"g",
+						"getResponseHeader"
+					],
+					[
+						"fun",
+						"function〔keyword〕"
+					],
+					[
+						"p",
+						"push〔function〕"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"for",
+						"for	for (…) {…} (Improved Native For-Loop)"
+					],
+					[
+						"config",
+						"configDefault"
+					],
+					[
+						"ex",
+						"extend"
+					],
+					[
+						"xml",
+						"xmlhttp"
+					],
+					[
+						"set",
+						"setp1"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"l",
+						"length"
+					],
+					[
+						"m",
+						"method"
+					],
+					[
+						"d",
+						"default_props"
+					],
+					[
+						"RQ_",
+						"RQ_GetXML"
+					],
+					[
+						"as",
+						"RQ_ajaxSettings"
+					],
+					[
+						"head",
+						"header	Tag"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Emmet",
+						"Toggle Comment"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/FormValidation.html",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/$templateCache.html",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/FormAdv1.js",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/FormBasic.js",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/FormBasic.html",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/FormValidation.js",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/FormCustom.html",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/FormCustom.js",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/$templateCache.js",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/Accordion-ngui.js",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/Accordion.html",
+				"/D/Workspaces/angularJS-in-action/Accordion-ngui.html",
+				"/D/Workspaces/angularJS-in-action/$templateCache.html",
+				"/D/Workspaces/angularJS-in-action/$templateCache.js",
+				"/D/Workspaces/Vue-in-action/001/hello.html",
+				"/D/Workspaces/angularJS-in-action/Accordion-ngui.js",
+				"/D/Workspaces/angularJS-in-action/framework/ui-bootstrap-tpls-0.11.0.js",
+				"/D/Workspaces/angularJS-in-action/hello.html",
+				"/D/Workspaces/angularJS-in-action/common.css",
+				"/D/Workspaces/angularJS-in-action/css/index.css",
+				"/C/Users/Apple/Downloads/xrx.js",
+				"/D/Tools/compressor/xxx.js",
+				"/C/Users/Apple/Desktop/xrx.js",
+				"/C/Users/Apple/Desktop/r.js",
+				"/D/Workspaces/dataGroud/RQ2.js",
+				"/D/app.js",
+				"/D/Workspaces/dataGroud/RQ.js",
+				"/D/Workspaces/dataGroud/RQAPI.js",
+				"/D/Workspaces/dataGroud/RQ.html",
+				"/D/Workspaces/dataGroud/pieyeAPI.js",
+				"/D/Workspaces/dataGroud/pieyeAP.html",
+				"/D/Workspaces/dataGroud/API.js",
+				"/D/tmp1/tmp/myapp/views/index.html",
+				"/D/tmp1/tmp/myapp/views/brandAnalysis.html",
+				"/C/Users/Apple/Desktop/myGrid.js",
+				"/C/Users/Apple/Desktop/app.js",
+				"/D/tmp1/testHtml/views/layout.html",
+				"/D/tmp1/testHtml/package.json",
+				"/D/tmp1/testHtml/routes/index.js",
+				"/D/tmp1/testHtml/app.js",
+				"/D/tmp1/testHtml/routes/users.js",
+				"/D/tmp1/testHtml/views/index.html",
+				"/D/tmp1/testHtml/public/javascripts/login.js",
+				"/D/tmp1/testHtml/public/stylesheets/style.css",
+				"/D/tmp1/testHtml/node_modules/bootstrap/package.json",
+				"/D/tmp/express_demo.js",
+				"/D/tmp/index.html",
+				"/D/Workspaces/deamo/itemStyle.html",
+				"/D/Workspaces/deamo/柱形/bar-stack.html",
+				"/D/Workspaces/deamo/柱形/echarts",
+				"/C/Users/Apple/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Workspaces/deamo/echar.html",
+				"/D/Workspaces/deamo/echarCirle.html",
+				"/C/Users/Apple/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/Apple/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"..",
+					"default_props",
+					"RQ",
+					"requir"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 36.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 221.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1362.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"stat",
+						"status.isFirstDisabked"
+					],
+					[
+						"in",
+						"input	Tag"
+					],
+					[
+						"st",
+						"status.open"
+					],
+					[
+						"ti",
+						"title	Tag"
+					],
+					[
+						"met",
+						"meta	Tag"
+					],
+					[
+						"te",
+						"templateCache"
+					],
+					[
+						"me",
+						"meta	Tag"
+					],
+					[
+						"i",
+						"init"
+					],
+					[
+						"confi",
+						"config〔argument〕"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"pr",
+						"prototype"
+					],
+					[
+						"XR",
+						"XHR"
+					],
+					[
+						"x",
+						"x-www-form-urlencoded"
+					],
+					[
+						"get",
+						"getResponseHeader"
+					],
+					[
+						"g",
+						"getResponseHeader"
+					],
+					[
+						"fun",
+						"function〔keyword〕"
+					],
+					[
+						"p",
+						"push〔function〕"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"for",
+						"for	for (…) {…} (Improved Native For-Loop)"
+					],
+					[
+						"config",
+						"configDefault"
+					],
+					[
+						"ex",
+						"extend"
+					],
+					[
+						"xml",
+						"xmlhttp"
+					],
+					[
+						"set",
+						"setp1"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"l",
+						"length"
+					],
+					[
+						"m",
+						"method"
+					],
+					[
+						"d",
+						"default_props"
+					],
+					[
+						"RQ_",
+						"RQ_GetXML"
+					],
+					[
+						"as",
+						"RQ_ajaxSettings"
+					],
+					[
+						"head",
+						"header	Tag"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "Package Control Messages\n========================\n\nConvertToUTF8\n-------------\n\n  ConvertToUTF8 1.2.11 Changelog\n  \n  Enhancements\n  - Save the cache contents only when necessary\n  \n  Fixed\n  - Handle the unload event to avoid AttributeError (#68, thanks to @Timandes)\n\n  ConvertToUTF8 1.2.10 Changelog\n  \n  Enhancements\n  - Add a new option \"confidence\" (#66, thanks to @doraemoncyx)\n  - A better handle for restoring selections (#67, thanks to @tianjun9)\n  \n  Fixed\n  - Only record command that modifies the buffer (#53, thanks to @demon386)\n  \n  ** The cursor position might be wrong after restoring.\n\n\nMaterial Theme\n--------------\n\n  #### Material Theme for Sublime Text 3\n  \n  ## Version 3.1.10\n  \n  ☢️ **************************************************************\n      After update, and before open a new \"already-closed\" issue run:\n      **\"Package Control: Satisfy Dependencies\"**\n  ☢️ **************************************************************\n  \n  📣 BUGFIXES:\n    - configurator when it's running right after installation ([ad8d345](https://github.com/equinusocio/material-theme/commit/ad8d345))\n    - Fix schemes with new mdpopups ([2babeb7](https://github.com/equinusocio/material-theme/commit/2babeb7))\n    - improve markdown highlighting ([d96c70a](https://github.com/equinusocio/material-theme/commit/d96c70a))\n    - popup styling in ST < 3119 ([66586db](https://github.com/equinusocio/material-theme/commit/66586db))\n    - R file type icon ([5e2ee0d](https://github.com/equinusocio/material-theme/commit/5e2ee0d))\n    - update configurator styles to support the latest mdpopups ([ac03484](https://github.com/equinusocio/material-theme/commit/ac03484))\n  \n  \n  ********************************************************************************\n  \n  ** Check the official changelog ( https://github.com/equinusocio/material-theme/blob/master/CHANGELOG.md  ) **\n",
+					"settings":
+					{
+						"buffer_size": 1880,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Emmet",
+						"Toggle Comment"
+					]
+				],
+				"width": 432.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Apple/Desktop/memberAnalysis/page.html",
+				"/C/Users/Apple/Desktop/memberAnalysis/page.js",
+				"/D/Program Files/tomcat/apache-tomcat-7.0.69/webapps/pieyeserver/libs/echarts3/theme/macarons.js",
+				"/D/wepack-sample-project/node_modules/webpack/bin/webpack.js",
+				"/D/webpack-action/webpack-action-02/node_modules/webpack/bin/webpack.js",
+				"/D/webpack-action/webpack-action-01/index.html",
+				"/D/webpack-demos/demo07/main.js",
+				"/D/Program Files/tomcat/apache-tomcat-7.0.69/webapps/pieyeserver/libs/gobal.js",
+				"/D/Workspaces/echarts3-in-action/0002/dist/js/page/common.js",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/FormValidation.html",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/$templateCache.html",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/FormAdv1.js",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/FormBasic.js",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/FormBasic.html",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/FormValidation.js",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/FormCustom.html",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/FormCustom.js",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/$templateCache.js",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/Accordion-ngui.js",
+				"/D/迅雷下载/54361c0400011c9a00000000/AngularJS实战第二章第五节指令源代码/02-05/app/Accordion.html",
+				"/D/Workspaces/angularJS-in-action/Accordion-ngui.html",
+				"/D/Workspaces/angularJS-in-action/$templateCache.html",
+				"/D/Workspaces/angularJS-in-action/$templateCache.js",
+				"/D/Workspaces/Vue-in-action/001/hello.html",
+				"/D/Workspaces/angularJS-in-action/Accordion-ngui.js",
+				"/D/Workspaces/angularJS-in-action/framework/ui-bootstrap-tpls-0.11.0.js",
+				"/D/Workspaces/angularJS-in-action/hello.html",
+				"/D/Workspaces/angularJS-in-action/common.css",
+				"/D/Workspaces/angularJS-in-action/css/index.css",
+				"/C/Users/Apple/Downloads/xrx.js",
+				"/D/Tools/compressor/xxx.js",
+				"/C/Users/Apple/Desktop/xrx.js",
+				"/C/Users/Apple/Desktop/r.js",
+				"/D/Workspaces/dataGroud/RQ2.js",
+				"/D/app.js",
+				"/D/Workspaces/dataGroud/RQ.js",
+				"/D/Workspaces/dataGroud/RQAPI.js",
+				"/D/Workspaces/dataGroud/RQ.html",
+				"/D/Workspaces/dataGroud/pieyeAPI.js",
+				"/D/Workspaces/dataGroud/pieyeAP.html",
+				"/D/Workspaces/dataGroud/API.js",
+				"/D/tmp1/tmp/myapp/views/index.html",
+				"/D/tmp1/tmp/myapp/views/brandAnalysis.html",
+				"/C/Users/Apple/Desktop/myGrid.js",
+				"/C/Users/Apple/Desktop/app.js",
+				"/D/tmp1/testHtml/views/layout.html",
+				"/D/tmp1/testHtml/package.json",
+				"/D/tmp1/testHtml/routes/index.js",
+				"/D/tmp1/testHtml/app.js",
+				"/D/tmp1/testHtml/routes/users.js",
+				"/D/tmp1/testHtml/views/index.html",
+				"/D/tmp1/testHtml/public/javascripts/login.js",
+				"/D/tmp1/testHtml/public/stylesheets/style.css",
+				"/D/tmp1/testHtml/node_modules/bootstrap/package.json",
+				"/D/tmp/express_demo.js",
+				"/D/tmp/index.html",
+				"/D/Workspaces/deamo/itemStyle.html",
+				"/D/Workspaces/deamo/柱形/bar-stack.html",
+				"/D/Workspaces/deamo/柱形/echarts",
+				"/C/Users/Apple/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Workspaces/deamo/echar.html",
+				"/D/Workspaces/deamo/echarCirle.html",
+				"/C/Users/Apple/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/Apple/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"..",
+					"default_props",
+					"RQ",
+					"requir"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1880,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1880,
+										1880
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"bracket_highlighter.busy": false,
+									"bs_sintax": "plain text",
+									"is_init_dirty_state": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 36.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,2,-32000,-32000,-1,-1,914,412,131,1610",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 204.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 4,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
